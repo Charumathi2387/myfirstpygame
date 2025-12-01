@@ -1,4 +1,5 @@
-Guess the Word - Python Game  
+Guess the Word - Python Game 
+
 
 ## How to Play  
 1️ The game picks a random word.  
@@ -12,4 +13,4 @@ Guess the Word - Python Game
   Random module  
   Loops & String manipulation  
 
-## Run the Game  
+
